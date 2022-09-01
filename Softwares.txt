@@ -1,0 +1,3 @@
+Install -->JDK1.8 or Higher
+Install -->Mysql
+Install -->Apache Tomcat
